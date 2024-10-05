@@ -32,7 +32,7 @@ if (isset($_SERVER['HTTP_HOST'])) {
         $config['base_url'] = 'http://localhost/1_CI/gurudev/';
     } else {
         // Base URL for live server
-        $config['base_url'] = 'https://krishnendudalui.in.net/gurudev/';
+        $config['base_url'] = 'https://krishnendudalui.in.net/';
     }
 }
 
