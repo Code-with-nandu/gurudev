@@ -692,10 +692,10 @@
                 <th>Project</th>
                 <th>Live Demo</th>
             </tr>
-            <tr>
+            <tr style="background-color: aqua;" >
                 <td>01</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/expanding-cards">Expanding Cards</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/expanding-cards/">Live Demo</a></td>
+                <td><a href="https://krishnendudalui.in.net/busbooking-s1/index.php/admin">Bus Booking project in Code Igniter</a></td>
+                <td><a href="https://krishnendudalui.in.net/busbooking-s1/index.php/admin">Live Demo</a></td>
             </tr>
             <tr>
                 <td>02</td>
