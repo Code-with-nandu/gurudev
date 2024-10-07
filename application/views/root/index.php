@@ -84,6 +84,77 @@
     </header>
     <button><h1><a href="">Local Host</a></h1></button>
     <button>  <h2><a href="">LIVE</a></h2></button>
+      <!-- Project in Local Host  -->
+   <header style="background-color: red; color: white; text-align: center;">
+        <h1>SOME Important Links : </h1>
+        <p>get your desired website in totally free.</p>
+        
+    </header>
+
+    <main>
+    <h2>SOME Importatant links  </h2>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>Project (Some Important)</th>
+            <th>Live Demo</th>
+            
+        </tr>
+        <tr>
+            <td>01</td>
+            <td><a href="https://devict.programs.org.in/ekam/index.php/public/campus/" target="_blank">ART Of Living Campus_dev Server  </a></td>
+            <td><a href="https://devict.programs.org.in/ekam/index.php/public/campus/" target="_blank">Live Demo</a></td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td><a href="https://register.vvmvp.org/ekam/index.php/public/campus" target="_blank">ART Of Living Campus_Live   </a></td>
+            <td><a href="https://register.vvmvp.org/ekam/index.php/public/campus" target="_blank">Live Demo</a></td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td><a href="https://web.whatsapp.com/" target="_blank">whatsapp </a></td>
+            <td><a href="https://web.whatsapp.com/" target="_blank">Live Demo</a></td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td><a href="https://chatgpt.com/" target="_blank">Chat GPT  </a></td>
+            <td><a href="https://chatgpt.com/" target="_blank">Live Demo</a></td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td><a href="http://localhost/phpmyadmin/" target="_blank">XAMPP LOCAL SERVER </a></td>
+            <td><a href="http://localhost/phpmyadmin/" target="_blank">Live Demo</a></td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td><a href="https://krishnendudalui.in.net/phpmyadmin/" target="_blank">LIVE SERVER (root ,D@2015$yuti) </a></td>
+            <td><a href="https://krishnendudalui.in.net/phpmyadmin/" target="_blank">Live Demo</a></td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td><a href="https://github.com/Code-with-nandu" target="_blank">Github </a></td>
+            <td><a href="https://github.com/Code-with-nandu" target="_blank">Live Demo</a></td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td><a href="https://apilist.fun/" target="_blank">API FUN </a></td>
+            <td><a href="https://apilist.fun/" target="_blank">Live Demo</a></td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td><a href="http://localhost/phpmyadmin/" target="_blank">XAMPP LOCAL SERVER </a></td>
+            <td><a href="http://localhost/phpmyadmin/" target="_blank">Live Demo</a></td>
+        </tr>
+     
+      
+        
+
+
+       
+    </table>
+
+   
+</main>
    <!-- Project in Local Host  -->
    <header style="background-color: red; color: white; text-align: center;">
         <h1>LOCAL HOST PROJECTS </h1>
@@ -114,6 +185,14 @@
             <td><a href="https://github.com/Code-with-nandu/krishendu_hotel.git" target="_blank">Github Link</a></td>
             <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
         </tr>
+        <tr>
+            <td>03</td>
+            <td><a href="http://localhost/1_CI/CIwebApp/home/home_old/" target="_blank">Codeigniter PROJECT -BLOG</a></td>
+            <td><a href="http://localhost/1_CI/CIwebApp/home/home_old/" target="_blank">Live Demo</a></td>
+            <td><a href="https://github.com/Code-with-nandu/krishendu_hotel.git" target="_blank">Github Link</a></td>
+            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+        </tr>
+     
         <tr>
             <th>#</th>
             <th>Project (REST API)</th>
@@ -164,7 +243,20 @@
             <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
         </tr>
         
-
+        <tr>
+            <td>09</td>
+            <td><a href="http://localhost/1_api/php_api_consumer/consume.php" target="_blank">PHP API  CONSUMER</a></td>
+            <td><a href="http://localhost/1_api/php_api_consumer/consume.php" target="_blank">Live Demo</a></td>
+            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td><a href="http://localhost/1_api/php_api/employee.php" target="_blank">PHP REST API PROVIDEr</a></td>
+            <td><a href="http://localhost/1_api/php_api/employee.php" target="_blank">Live Demo</a></td>
+            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+        </tr>
 
         <tr>
             <th>#</th>
@@ -191,8 +283,8 @@
         <!-- Add more projects as needed -->
         <tr>
             <td>50</td>
-            <td><a href="<?php echo base_url()?>assets/500projects/insect-catch-game" target="_blank">Insect Catch Game</a></td>
-            <td><a href="<?php echo base_url()?>assets/500projects/insect-catch-game/" target="_blank">Live Demo</a></td>
+            <td><a href="http://localhost/5_ekam/ekam_s1/camp" target="_blank">5_ekam/ekam_s1</a></td>
+            <td><a href="http://localhost/5_ekam/ekam_s1/camp" target="_blank">Live Demo</a></td>
             <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
             <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
         </tr>
@@ -203,6 +295,25 @@
             <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
             <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
         </tr>
+
+        
+        <tr>
+            <th>#</th>
+            <th>Project (CODE-IGNITER (1_CI))</th>
+            <th>Live Demo</th>
+            <th>Github</th>
+            <th>Short Note </th>
+        </tr>
+        <tr>
+            <td>51</td>
+            <td><a href="http://localhost/1_CI/busbooking/index.php/admin" target="_blank">Busbookin project in CI</a></td>
+            <td><a href="http://localhost/1_CI/busbooking/index.php/admin" target="_blank">Live Demo</a></td>
+            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+        </tr>
+
+
+
     </table>
 
    
@@ -502,9 +613,9 @@
                 <td><a href="https://krishnendudalui.in.net/php-api-consumer/consume.php">Live Demo</a></td>
             </tr>
             <tr>
-                <td>103</td>
-                <td><a href="https://krishnendudalui.in.net/API_pagination/index.php/api/users/view?page=2">API PAGINATION consumer </a></td>
-                <td><a href="https://krishnendudalui.in.net/API_pagination/index.php/api/users/view?page=2">Live Demo</a></td>
+               <td>103</td>
+               <td><a href="https://apilist.fun/" target="_blank">API FUN </a></td>
+               <td><a href="https://apilist.fun/" target="_blank">Live Demo</a></td>
             </tr>
             <tr>
                 <td>104</td>
