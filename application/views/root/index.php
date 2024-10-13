@@ -1,9 +1,18 @@
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>500 Projects in 5 years</title>
+    <style>
+        .project {
+            margin: 20px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+    </style>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,7 +53,8 @@
             margin-top: 20px;
         }
 
-        th, td {
+        th,
+        td {
             padding: 10px;
             text-align: left;
             border: 1px solid #dddddd;
@@ -76,250 +86,396 @@
         }
     </style>
 </head>
+
 <body>
-    <header >
-        <h1>500+ Projects in 5 years 45  Days</h1>
+    <header>
+        <h1>500+ Projects sucesfully   <!-- Added for project age --> <span  id="project-4"></span><span
+        id="formattedTime"></span></h1>
         <p>get your desired website in totally free.</p>
-        
+
     </header>
-    <button><h1><a href="">Local Host</a></h1></button>
-    <button>  <h2><a href="">LIVE</a></h2></button>
-      <!-- Project in Local Host  -->
-   <header style="background-color: red; color: white; text-align: center;">
+    
+    <h1 id="main-title">Project Time Signatures</h1>
+   
+    <h2 id="project-3">Project 03 (Local Host+live)</h2>
+    
+    <h2 id="project-5">Project 05 (Local Host+live)</h2>
+    <h2 id="project-6">Project 06 (Local Host+live)</h2>
+    </div>
+    
+    <!-- Project in Local Host  -->
+    <header style="background-color: red; color: white; text-align: center;">
         <h1>SOME Important Links : </h1>
         <p>get your desired website in totally free.</p>
-        
+
     </header>
 
     <main>
-    <h2>SOME Importatant links  </h2>
-    <table>
-        <tr>
-            <th>#</th>
-            <th>Project (Some Important)</th>
-            <th>Live Demo</th>
-            
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="https://devict.programs.org.in/ekam/index.php/public/campus/" target="_blank">ART Of Living Campus_dev Server  </a></td>
-            <td><a href="https://devict.programs.org.in/ekam/index.php/public/campus/" target="_blank">Live Demo</a></td>
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="https://register.vvmvp.org/ekam/index.php/public/campus" target="_blank">ART Of Living Campus_Live   </a></td>
-            <td><a href="https://register.vvmvp.org/ekam/index.php/public/campus" target="_blank">Live Demo</a></td>
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="https://web.whatsapp.com/" target="_blank">whatsapp </a></td>
-            <td><a href="https://web.whatsapp.com/" target="_blank">Live Demo</a></td>
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="https://chatgpt.com/" target="_blank">Chat GPT  </a></td>
-            <td><a href="https://chatgpt.com/" target="_blank">Live Demo</a></td>
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="http://localhost/phpmyadmin/" target="_blank">XAMPP LOCAL SERVER </a></td>
-            <td><a href="http://localhost/phpmyadmin/" target="_blank">Live Demo</a></td>
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="https://krishnendudalui.in.net/phpmyadmin/" target="_blank">LIVE SERVER (root ,D@2015$yuti) </a></td>
-            <td><a href="https://krishnendudalui.in.net/phpmyadmin/" target="_blank">Live Demo</a></td>
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="https://github.com/Code-with-nandu" target="_blank">Github </a></td>
-            <td><a href="https://github.com/Code-with-nandu" target="_blank">Live Demo</a></td>
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="https://apilist.fun/" target="_blank">API FUN </a></td>
-            <td><a href="https://apilist.fun/" target="_blank">Live Demo</a></td>
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="http://localhost/phpmyadmin/" target="_blank">XAMPP LOCAL SERVER </a></td>
-            <td><a href="http://localhost/phpmyadmin/" target="_blank">Live Demo</a></td>
-        </tr>
-     
-      
+        <h2>SOME Importatant links </h2>
+        <table>
+            <tr>
+                <th>#</th>
+                <th>Project (Some Important)</th>
+                <th>Live Demo</th>
+
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="https://devict.programs.org.in/ekam/index.php/public/campus/" target="_blank">ART Of Living Campus_dev Server </a></td>
+                <td><a href="https://devict.programs.org.in/ekam/index.php/public/campus/" target="_blank">Live Demo</a></td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="https://register.vvmvp.org/ekam/index.php/public/campus" target="_blank">ART Of Living Campus_Live </a></td>
+                <td><a href="https://register.vvmvp.org/ekam/index.php/public/campus" target="_blank">Live Demo</a></td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="https://web.whatsapp.com/" target="_blank">whatsapp </a></td>
+                <td><a href="https://web.whatsapp.com/" target="_blank">Live Demo</a></td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="https://chatgpt.com/" target="_blank">Chat GPT </a></td>
+                <td><a href="https://chatgpt.com/" target="_blank">Live Demo</a></td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="http://localhost/phpmyadmin/" target="_blank">XAMPP LOCAL SERVER </a></td>
+                <td><a href="http://localhost/phpmyadmin/" target="_blank">Live Demo</a></td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="https://krishnendudalui.in.net/phpmyadmin/" target="_blank">LIVE SERVER (root ,D@2015$yuti) </a></td>
+                <td><a href="https://krishnendudalui.in.net/phpmyadmin/" target="_blank">Live Demo</a></td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="https://github.com/Code-with-nandu" target="_blank">Github </a></td>
+                <td><a href="https://github.com/Code-with-nandu" target="_blank">Live Demo</a></td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="https://apilist.fun/" target="_blank">API FUN </a></td>
+                <td><a href="https://apilist.fun/" target="_blank">Live Demo</a></td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="http://localhost/phpmyadmin/" target="_blank">XAMPP LOCAL SERVER </a></td>
+                <td><a href="http://localhost/phpmyadmin/" target="_blank">Live Demo</a></td>
+            </tr>
+
+
+
+
+
+
+        </table>
+    </main>
+    <header style="background-color: red; color: white; text-align: center;">
+        <h1>All  PROJECTS </h1>
+        <p>get your desired website in totally free.</p>
+    </header>
+
+  
+
+ 
+    <!-- Prjiect 01 -->
+    <main>
+    <h2 id="project-1">Project 01 (Local Host+live)</h2>
+ 
+
+        <table>
+            <tr>
+                <th>#</th>
+                <th>Project (REST API)</th>
+                <th>Live Demo</th>
+                <th>Github</th>
+                <th>Main Note </th>
+                <th>Short Note</th>
+            </tr>
+            <tr style="background-color: coral;" >
+                <td>01</td>
+                <td><a href="http://localhost/1_api/API_Consumer/client/get_users" target="_blank">REST API CONSUMER in CI3 _V1</a></td>
+                <td><a href="http://localhost/1_api/API_Consumer/client/get_users" target="_blank">Local host</a></td>
+                <td><a href="https://github.com/Code-with-nandu/API_Consumer" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/1-SmuMiY4KijK16ZcypNtkjePOJKUaXt_/edit" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1-OlD-y_03GdE075IMD6DdRbAiNruPJre/edit" target="_blank">Short Note  </a></td>
+            </tr>
+
         
+            <tr style="background-color: coral;">
+                <td>02</td>
+                <td><a href="http://localhost/1_api/API_Provider" target="_blank">REST API PROVIDER in CI3 _V1</a></td>
+                <td><a href="http://localhost/1_api/API_Provider" target="_blank">Local host</a></td>
+                <td><a href="https://github.com/Code-with-nandu/API_Provider" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/1-SmuMiY4KijK16ZcypNtkjePOJKUaXt_/edit" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1-aO57OuGCFqOabD7Gj_h5sakRFJR9sJr/edit" target="_blank">Short Note  </a></td>
+            </tr>
+            <tr style="background-color: darkturquoise;" >
+             
+                <td>03</td>
+                <td><a href="https://krishnendudalui.in.net/API_Consumer/index.php/client/get_users" target="_blank">REST API CONSUMER in CI3 _V1</a></td>
+                <td><a href="https://krishnendudalui.in.net/API_Consumer/index.php/client/get_users" target="_blank">LIVE</a></td>
+                <td><a href="https://github.com/Code-with-nandu/API_Consumer" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/1-SmuMiY4KijK16ZcypNtkjePOJKUaXt_/edit" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1-OlD-y_03GdE075IMD6DdRbAiNruPJre/edit" target="_blank">Short Note  </a></td>
+            </tr>
+
+        
+            <tr style="background-color: darkturquoise;">
+                <td>04</td>
+                <td><a href="https://krishnendudalui.in.net/API_Provider/" target="_blank">REST API PROVIDER in CI3 _V1</a></td>
+                <td><a href="https://krishnendudalui.in.net/API_Provider/" target="_blank">LIVE</a></td>
+                <td><a href="https://github.com/Code-with-nandu/API_Provider" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/1-SmuMiY4KijK16ZcypNtkjePOJKUaXt_/edit" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1-aO57OuGCFqOabD7Gj_h5sakRFJR9sJr/edit" target="_blank">Short Note  </a></td>
+            </tr>
+
+        </table>
 
 
-       
-    </table>
+    </main>
 
-   
-</main>
-   <!-- Project in Local Host  -->
-   <header style="background-color: red; color: white; text-align: center;">
+      <!-- Prjiect 02 -->
+      <main>
+      <h2 id="project-2">Project 02 (Local Host+live)</h2>
+     
+        <table>
+            <tr>
+                <th>#</th>
+                <th>Project (REST API)</th>
+                <th>Live Demo</th>
+                <th>Github</th>
+                <th>Main Note </th>
+                <th>Short Note</th>
+            </tr>
+            <tr style="background-color: coral;" >
+                <td>05</td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">REST API CONSUMER in CI3 _V2</a></td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">Local host</a></td>
+                <td><a href="https://github.com/Code-with-nandu/API_Consumer_p2" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/1-hiv-9v3-ndF4CtkKj_VtMgFjfqXNw47/edit" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1-icnVovPL-oddN2Ax_qZeLbukSWWMGF7/edit" target="_blank">Short Note  </a></td>
+            </tr>
+
+        
+            <tr style="background-color: coral;">
+                <td>06</td>
+                <td><a href="http://localhost/1_api/API_Provider_p2/" target="_blank">REST API PROVIDER in CI3 _V2</a></td>
+                <td><a href="http://localhost/1_api/API_Provider_p2/" target="_blank">Local host</a></td>
+                <td><a href="https://github.com/Code-with-nandu/API_Provider_p2" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/17hzvPxlSF7X9X7-44d3bEGvcf7KDQBXI/edit" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1631T8oOIgPyKnHXD8lkdAvHj7pi2k9Qw/edit" target="_blank">Short Note  </a></td>
+            </tr>
+            <tr style="background-color: darkturquoise;" >
+                <td>07</td>
+                <td><a href="https://krishnendudalui.in.net/API_Consumer_p2/client/get_users" target="_blank">REST API CONSUMER in CI3 _V2</a></td>
+                <td><a href="https://krishnendudalui.in.net/API_Consumer_p2/client/get_users" target="_blank">LIVE</a></td>
+                <td><a href="https://github.com/Code-with-nandu/API_Consumer_p2" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/1-hiv-9v3-ndF4CtkKj_VtMgFjfqXNw47/edit" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1-icnVovPL-oddN2Ax_qZeLbukSWWMGF7/edit" target="_blank">Short Note  </a></td>
+            </tr>
+
+        
+            <tr style="background-color: darkturquoise;">
+                <td>08</td>
+                <td><a href="https://krishnendudalui.in.net/API_Provider_p2/" target="_blank">REST API PROVIDER in CI3 _V2</a></td>
+                <td><a href="https://krishnendudalui.in.net/API_Provider_p2/" target="_blank">LIVE</a></td>
+                <td><a href="https://github.com/Code-with-nandu/API_Provider" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/1pGZmwCnQd1uGz4DDpBPak6i284FLIAzb/edit?usp=sharing&ouid=114412765589652749213&rtpof=true&sd=true" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1u_gMC6WY6jL_xa99oalv9i0f7g3I7xKr/edit#heading=h.gjdgxs" target="_blank">Short Note  </a></td>
+            </tr>
+
+        </table>
+
+
+    </main>
+
+
+    <!-- Project in Local Host  -->
+    <header style="background-color: red; color: white; text-align: center;">
         <h1>LOCAL HOST PROJECTS </h1>
         <p>get your desired website in totally free.</p>
-        
+
     </header>
-<main>
-    <h2>Projects in Local Host </h2>
-    <table>
-        <tr>
-            <th>#</th>
-            <th>Project (php & codeIGNITER3)</th>
-            <th>Live Demo</th>
-            <th>Github</th>
-            <th>Short Note </th>
-        </tr>
-        <tr>
-            <td>01</td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">HOTEL Project in PHP</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>02</td>
-            <td><a href="http://localhost/1_CI/hotel/" target="_blank">HOTEL Project In Codeigniter 3</a></td>
-            <td><a href="http://localhost/1_CI/hotel/" target="_blank">Live Demo</a></td>
-            <td><a href="https://github.com/Code-with-nandu/krishendu_hotel.git" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>03</td>
-            <td><a href="http://localhost/1_CI/CIwebApp/home/home_old/" target="_blank">Codeigniter PROJECT -BLOG</a></td>
-            <td><a href="http://localhost/1_CI/CIwebApp/home/home_old/" target="_blank">Live Demo</a></td>
-            <td><a href="https://github.com/Code-with-nandu/krishendu_hotel.git" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-     
-        <tr>
-            <th>#</th>
-            <th>Project (REST API)</th>
-            <th>Live Demo</th>
-            <th>Github</th>
-            <th>Short Note </th>
-        </tr>
-        <tr>
-            <td>03</td>
-            <td><a href="http://localhost/1_api/API_Consumer/client/get_users" target="_blank">REST API CONSUMER in CI3 _V1</a></td>
-            <td><a href="http://localhost/1_api/API_Consumer/client/get_users" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>04</td>
-            <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">REST API CONSUMER in CI3 _V2</a></td>
-            <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>05</td>
-            <td><a href="http://localhost/1_api/API_Consumer_p2/ApiClientController/register" target="_blank">REST API CONSUMER in CI3 _V2_Registration</a></td>
-            <td><a href="http://localhost/1_api/API_Consumer_p2/ApiClientController/register" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>06</td>
-            <td><a href="http://localhost/1_api/API_Consumer_p2/ApiClientController/showLoginForm" target="_blank">REST API CONSUMER in CI3 _V2_LOGIN</a></td>
-            <td><a href="http://localhost/1_api/API_Consumer_p2/ApiClientController/showLoginForm" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>07</td>
-            <td><a href="http://localhost/1_api/pgination_CI/index.php/api/users" target="_blank">REST API PAGINATION in CI3_PROVIDER</a></td>
-            <td><a href="http://localhost/1_api/pgination_CI/index.php/api/users" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>08</td>
-            <td><a href="http://localhost/1_api/pgination_CI/index.php/api/users/view?page=2" target="_blank">REST API PAGINATION in CI3_CONSUMER</a></td>
-            <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        
-        <tr>
-            <td>09</td>
-            <td><a href="http://localhost/1_api/php_api_consumer/consume.php" target="_blank">PHP API  CONSUMER</a></td>
-            <td><a href="http://localhost/1_api/php_api_consumer/consume.php" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td><a href="http://localhost/1_api/php_api/employee.php" target="_blank">PHP REST API PROVIDEr</a></td>
-            <td><a href="http://localhost/1_api/php_api/employee.php" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
 
-        <tr>
-            <th>#</th>
-            <th>Project (EKAM)</th>
-            <th>Live Demo</th>
-            <th>Github</th>
-            <th>Short Note </th>
-        </tr>
+    <main>
+        <h2>Projects in Local Host </h2>
+        <table>
+            <tr>
+                <th>#</th>
+                <th>Project (php & codeIGNITER3)</th>
+                <th>Live Demo</th>
+                <th>Github</th>
+                <th>Short Note </th>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">HOTEL Project in PHP</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>02</td>
+                <td><a href="http://localhost/1_CI/hotel/" target="_blank">HOTEL Project In Codeigniter 3</a></td>
+                <td><a href="http://localhost/1_CI/hotel/" target="_blank">Live Demo</a></td>
+                <td><a href="https://github.com/Code-with-nandu/krishendu_hotel.git" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>03</td>
+                <td><a href="http://localhost/1_CI/CIwebApp/home/home_old/" target="_blank">Codeigniter PROJECT -BLOG</a></td>
+                <td><a href="http://localhost/1_CI/CIwebApp/home/home_old/" target="_blank">Live Demo</a></td>
+                <td><a href="https://github.com/Code-with-nandu/krishendu_hotel.git" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
 
-        <tr>
-            <td>09</td>
-            <td><a href="http://localhost/5_Ekam_sept/ekam_original/camp/org" target="_blank">EKAM RECREATE _v2</a></td>
-            <td><a href="http://localhost/5_Ekam_sept/ekam_original/camp/org" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td><a href="http://localhost/5_Ekam_sept/ekam_original/upload" target="_blank">CHUNK FILE UPLOAD</a></td>
-            <td><a href="http://localhost/5_Ekam_sept/ekam_original/upload" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <!-- Add more projects as needed -->
-        <tr>
-            <td>50</td>
-            <td><a href="http://localhost/5_ekam/ekam_s1/camp" target="_blank">5_ekam/ekam_s1</a></td>
-            <td><a href="http://localhost/5_ekam/ekam_s1/camp" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
-        <tr>
-            <td>51</td>
-            <td><a href="<?php echo base_url()?>assets/500projects/simple-timer" target="_blank">Simple Timer</a></td>
-            <td><a href="<?php echo base_url()?>assets/500projects/simple-timer/" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
+            <tr>
+                <th>#</th>
+                <th>Project (REST API)</th>
+                <th>Live Demo</th>
+                <th>Github</th>
+                <th>Main Note </th>
+                <th>Short Note</th>
+            </tr>
+            <tr style="background-color: coral;" >
+                <td>PROJECT 1</td>
+                <td><a href="http://localhost/1_api/API_Consumer/client/get_users" target="_blank">REST API CONSUMER in CI3 _V1</a></td>
+                <td><a href="http://localhost/1_api/API_Consumer/client/get_users" target="_blank">Live Demo</a></td>
+                <td><a href="https://github.com/Code-with-nandu/API_Consumer" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/1pGZmwCnQd1uGz4DDpBPak6i284FLIAzb/edit?usp=sharing&ouid=114412765589652749213&rtpof=true&sd=true" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1u_gMC6WY6jL_xa99oalv9i0f7g3I7xKr/edit#heading=h.gjdgxs" target="_blank">Short Note  </a></td>
+            </tr>
 
-        
-        <tr>
-            <th>#</th>
-            <th>Project (CODE-IGNITER (1_CI))</th>
-            <th>Live Demo</th>
-            <th>Github</th>
-            <th>Short Note </th>
-        </tr>
-        <tr>
-            <td>51</td>
-            <td><a href="http://localhost/1_CI/busbooking/index.php/admin" target="_blank">Busbookin project in CI</a></td>
-            <td><a href="http://localhost/1_CI/busbooking/index.php/admin" target="_blank">Live Demo</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
-            <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
-        </tr>
+            <tr>
+                <td>04</td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">REST API CONSUMER in CI3 _V2</a></td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>PROJECT 1</td>
+                <td><a href="http://localhost/1_api/API_Provider" target="_blank">REST API PROVIDER in CI3 _V1</a></td>
+                <td><a href="http://localhost/1_api/API_Provider" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>03</td>
+                <td><a href="http://localhost/1_api/API_Provider_p2/" target="_blank">REST API PROVIDER in CI3 _V2</a></td>
+                <td><a href="http://localhost/1_api/API_Provider_p2/" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>05</td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/ApiClientController/register" target="_blank">REST API CONSUMER in CI3 _V2_Registration</a></td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/ApiClientController/register" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>06</td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/ApiClientController/showLoginForm" target="_blank">REST API CONSUMER in CI3 _V2_LOGIN</a></td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/ApiClientController/showLoginForm" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>07</td>
+                <td><a href="http://localhost/1_api/pgination_CI/index.php/api/users" target="_blank">REST API PAGINATION in CI3_PROVIDER</a></td>
+                <td><a href="http://localhost/1_api/pgination_CI/index.php/api/users" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>08</td>
+                <td><a href="http://localhost/1_api/pgination_CI/index.php/api/users/view?page=2" target="_blank">REST API PAGINATION in CI3_CONSUMER</a></td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+
+            <tr>
+                <td>09</td>
+                <td><a href="http://localhost/1_api/php_api_consumer/consume.php" target="_blank">PHP API CONSUMER</a></td>
+                <td><a href="http://localhost/1_api/php_api_consumer/consume.php" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td><a href="http://localhost/1_api/php_api/employee.php" target="_blank">PHP REST API PROVIDEr</a></td>
+                <td><a href="http://localhost/1_api/php_api/employee.php" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+
+            <tr>
+                <th>#</th>
+                <th>Project (EKAM)</th>
+                <th>Live Demo</th>
+                <th>Github</th>
+                <th>Short Note </th>
+            </tr>
+
+            <tr>
+                <td>09</td>
+                <td><a href="http://localhost/5_Ekam_sept/ekam_original/camp/org" target="_blank">EKAM RECREATE _v2</a></td>
+                <td><a href="http://localhost/5_Ekam_sept/ekam_original/camp/org" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td><a href="http://localhost/5_Ekam_sept/ekam_original/upload" target="_blank">CHUNK FILE UPLOAD</a></td>
+                <td><a href="http://localhost/5_Ekam_sept/ekam_original/upload" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <!-- Add more projects as needed -->
+            <tr>
+                <td>50</td>
+                <td><a href="http://localhost/5_ekam/ekam_s1/camp" target="_blank">5_ekam/ekam_s1</a></td>
+                <td><a href="http://localhost/5_ekam/ekam_s1/camp" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>51</td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/simple-timer" target="_blank">Simple Timer</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/simple-timer/" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+
+
+            <tr>
+                <th>#</th>
+                <th>Project (CODE-IGNITER (1_CI))</th>
+                <th>Live Demo</th>
+                <th>Github</th>
+                <th>Short Note </th>
+            </tr>
+            <tr>
+                <td>51</td>
+                <td><a href="http://localhost/1_CI/busbooking/index.php/admin" target="_blank">Busbookin project in CI</a></td>
+                <td><a href="http://localhost/1_CI/busbooking/index.php/admin" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
 
 
 
-    </table>
+        </table>
 
-   
-</main>
 
- <!-- HTML CSS JS Projects -->
+    </main>
+
+    <!-- HTML CSS JS Projects -->
     <main>
         <h2>HTML CSS JS Projects (LOCAL HOST) </h2>
         <table>
@@ -330,254 +486,254 @@
             </tr>
             <tr>
                 <td>01</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/expanding-cards">Expanding Cards</a></td>
-                
-                <td><a href="<?php echo base_url()?>assets/500projects/expanding-cards/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/expanding-cards">Expanding Cards</a></td>
+
+                <td><a href="<?php echo base_url() ?>assets/500projects/expanding-cards/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>02</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/progress-steps">Progress Steps</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/progress-steps/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/progress-steps">Progress Steps</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/progress-steps/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>03</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/rotating-nav-animation">Rotating Navigation Animation</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/rotating-nav-animation/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/rotating-nav-animation">Rotating Navigation Animation</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/rotating-nav-animation/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>04</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/hidden-search">Hidden Search Widget</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/hidden-search/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/hidden-search">Hidden Search Widget</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/hidden-search/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>05</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/blurry-loading">Blurry Loading</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/blurry-loading/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/blurry-loading">Blurry Loading</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/blurry-loading/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>06</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/scroll-animation">Scroll Animation</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/scroll-animation/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/scroll-animation">Scroll Animation</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/scroll-animation/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>07</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/split-landing-page">Split Landing Page</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/split-landing-page/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/split-landing-page">Split Landing Page</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/split-landing-page/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>08</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/form-input-wave">Form Wave</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/form-input-wave/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/form-input-wave">Form Wave</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/form-input-wave/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>09</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/sound-board">Sound Board</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/sound-board/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/sound-board">Sound Board</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/sound-board/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>10</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/dad-jokes">Dad Jokes</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/dad-jokes/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/dad-jokes">Dad Jokes</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/dad-jokes/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>11</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/event-keycodes">Event Keycodes</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/event-keycodes/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/event-keycodes">Event Keycodes</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/event-keycodes/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>12</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/faq-collapse">FAQ Collapse</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/faq-collapse/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/faq-collapse">FAQ Collapse</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/faq-collapse/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>13</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/random-choice-picker">Random Choice Picker</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/random-choice-picker/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/random-choice-picker">Random Choice Picker</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/random-choice-picker/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>14</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/animated-navigation">Animated Navigation</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/animated-navigation/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/animated-navigation">Animated Navigation</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/animated-navigation/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>15</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/incrementing-counter">Incrementing Counter</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/incrementing-counter/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/incrementing-counter">Incrementing Counter</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/incrementing-counter/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>16</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/drink-water">Drink Water</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/drink-water/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/drink-water">Drink Water</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/drink-water/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>17</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/movie-app">Movie App</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/movie-app/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/movie-app">Movie App</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/movie-app/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>18</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/background-slider">Background Slider</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/background-slider/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/background-slider">Background Slider</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/background-slider/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>19</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/theme-clock">Theme Clock</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/theme-clock/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/theme-clock">Theme Clock</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/theme-clock/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>20</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/note-app">Note App</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/note-app/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/note-app">Note App</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/note-app/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>21</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/password-generator">Password Generator</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/password-generator/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/password-generator">Password Generator</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/password-generator/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>22</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/feedback-ui">Feedback UI</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/feedback-ui/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/feedback-ui">Feedback UI</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/feedback-ui/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>23</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/crud-app">CRUD App</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/crud-app/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/crud-app">CRUD App</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/crud-app/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>24</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/music-player">Music Player</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/music-player/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/music-player">Music Player</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/music-player/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>25</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/scroll-reveal">Scroll Reveal</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/scroll-reveal/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/scroll-reveal">Scroll Reveal</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/scroll-reveal/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>26</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/word-guess-game">Word Guess Game</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/word-guess-game/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/word-guess-game">Word Guess Game</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/word-guess-game/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>27</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/drawing-app">Drawing App</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/drawing-app/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/drawing-app">Drawing App</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/drawing-app/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>28</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/joke-generator">Joke Generator</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/joke-generator/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/joke-generator">Joke Generator</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/joke-generator/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>29</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/quiz-app">Quiz App</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/quiz-app/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/quiz-app">Quiz App</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/quiz-app/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>30</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/text-to-speech">Text to Speech</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/text-to-speech/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/text-to-speech">Text to Speech</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/text-to-speech/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>31</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/faq-accordion">FAQ Accordion</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/faq-accordion/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/faq-accordion">FAQ Accordion</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/faq-accordion/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>32</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/currency-converter">Currency Converter</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/currency-converter/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/currency-converter">Currency Converter</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/currency-converter/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>33</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/photography-portfolio">Photography Portfolio</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/photography-portfolio/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/photography-portfolio">Photography Portfolio</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/photography-portfolio/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>34</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/sneaker-store">Sneaker Store</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/sneaker-store/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/sneaker-store">Sneaker Store</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/sneaker-store/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>35</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/weather-app">Weather App</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/weather-app/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/weather-app">Weather App</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/weather-app/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>36</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/calculator">Calculator</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/calculator/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/calculator">Calculator</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/calculator/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>37</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/todo-list">Todo List</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/todo-list/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/todo-list">Todo List</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/todo-list/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>38</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/recipe-app">Recipe App</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/recipe-app/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/recipe-app">Recipe App</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/recipe-app/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>39</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/todo-app-v2">Todo App V2</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/todo-app-v2/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/todo-app-v2">Todo App V2</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/todo-app-v2/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>40</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/grocery-list">Grocery List</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/grocery-list/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/grocery-list">Grocery List</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/grocery-list/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>41</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/weather-dashboard">Weather Dashboard</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/weather-dashboard/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/weather-dashboard">Weather Dashboard</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/weather-dashboard/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>42</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/note-taking-app">Note Taking App</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/note-taking-app/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/note-taking-app">Note Taking App</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/note-taking-app/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>43</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/pomodoro-clock">Pomodoro Clock</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/pomodoro-clock/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/pomodoro-clock">Pomodoro Clock</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/pomodoro-clock/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>44</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/running-tracker">Running Tracker</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/running-tracker/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/running-tracker">Running Tracker</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/running-tracker/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>45</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/user-registration">User Registration</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/user-registration/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/user-registration">User Registration</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/user-registration/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>46</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/timer">Timer</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/timer/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/timer">Timer</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/timer/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>47</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/pokedex">Pokedex</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/pokedex/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/pokedex">Pokedex</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/pokedex/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>48</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/snake-game">Snake Game</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/snake-game/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/snake-game">Snake Game</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/snake-game/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>49</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/tetris">Tetris</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/tetris/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/tetris">Tetris</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/tetris/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>50</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/portfolio">Portfolio</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/portfolio/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/portfolio">Portfolio</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/portfolio/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>51</td>
@@ -587,21 +743,50 @@
         </table>
     </main>
     <!--Projects in  REST AP  -->
-    <header style="background-color: red; color: white; text-align: center;" >
-        <h1 >LIVE PROJECTS </h1>
+    <header style="background-color: red; color: white; text-align: center;">
+        <h1>LIVE PROJECTS </h1>
         <p>get your desired website in totally free.</p>
-        
+
     </header>
     <!-- Projects in  REST API -->
     <main>
-        <h2>Projects in  REST API</h2>
+        <h2>Projects in REST API</h2>
         <table>
             <tr>
                 <th>#</th>
                 <th>Project</th>
                 <th>Live Demo</th>
             </tr>
-          
+            <tr>
+                <td>03</td>
+                <td><a href="http://localhost/1_api/API_Consumer/client/get_users" target="_blank">REST API CONSUMER in CI3 _V1</a></td>
+                <td><a href="http://localhost/1_api/API_Consumer/client/get_users" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+
+            <tr>
+                <td>04</td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">REST API CONSUMER in CI3 _V2</a></td>
+                <td><a href="http://localhost/1_api/API_Consumer_p2/index.php/client/api_key_form" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>03</td>
+                <td><a href="https://krishnendudalui.in.net/API_Provider" target="_blank">REST API PROVIDER in CI3 _V1</a></td>
+                <td><a href="https://krishnendudalui.in.net/API_Provider" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+            <tr>
+                <td>03</td>
+                <td><a href="https://krishnendudalui.in.net/API_Provider_p2/" target="_blank">REST API PROVIDER in CI3 _V2</a></td>
+                <td><a href="https://krishnendudalui.in.net/API_Provider_p2/" target="_blank">Live Demo</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Github Link</a></td>
+                <td><a href="http://localhost/4_php/hotel/index.php" target="_blank">Short note Link</a></td>
+            </tr>
+
             <tr>
                 <td>101</td>
                 <td><a href="https://krishnendudalui.in.net/PHI_API_PROVIDER/employee">PHI_API_PROVIDER</a></td>
@@ -613,9 +798,9 @@
                 <td><a href="https://krishnendudalui.in.net/php-api-consumer/consume.php">Live Demo</a></td>
             </tr>
             <tr>
-               <td>103</td>
-               <td><a href="https://apilist.fun/" target="_blank">API FUN </a></td>
-               <td><a href="https://apilist.fun/" target="_blank">Live Demo</a></td>
+                <td>103</td>
+                <td><a href="https://apilist.fun/" target="_blank">API FUN </a></td>
+                <td><a href="https://apilist.fun/" target="_blank">Live Demo</a></td>
             </tr>
             <tr>
                 <td>104</td>
@@ -625,13 +810,13 @@
             <!-- Add more projects as needed -->
             <tr>
                 <td>50</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/insect-catch-game">Insect Catch Game</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/insect-catch-game/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/insect-catch-game">Insect Catch Game</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/insect-catch-game/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>51</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/simple-timer">Simple Timer</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/simple-timer/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/simple-timer">Simple Timer</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/simple-timer/">Live Demo</a></td>
             </tr>
         </table>
 
@@ -651,34 +836,34 @@
             </tr>
             <tr>
                 <td>01</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/expanding-cards">Expanding Cards</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/expanding-cards/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/expanding-cards">Expanding Cards</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/expanding-cards/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>02</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/progress-steps">Progress Steps</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/progress-steps/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/progress-steps">Progress Steps</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/progress-steps/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>03</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/rotating-nav-animation">Rotating Navigation Animation</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/rotating-navigation-animation/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/rotating-nav-animation">Rotating Navigation Animation</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/rotating-navigation-animation/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>04</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/hidden-search">Hidden Search Widget</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/hidden-search-widget/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/hidden-search">Hidden Search Widget</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/hidden-search-widget/">Live Demo</a></td>
             </tr>
             <!-- Add more projects as needed -->
             <tr>
                 <td>50</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/insect-catch-game">Insect Catch Game</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/insect-catch-game/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/insect-catch-game">Insect Catch Game</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/insect-catch-game/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>51</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/simple-timer">Simple Timer</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/simple-timer/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/simple-timer">Simple Timer</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/simple-timer/">Live Demo</a></td>
             </tr>
         </table>
 
@@ -692,40 +877,40 @@
                 <th>Project</th>
                 <th>Live Demo</th>
             </tr>
-            <tr style="background-color: aqua;" >
+            <tr style="background-color: aqua;">
                 <td>01</td>
                 <td><a href="https://krishnendudalui.in.net/busbooking-s1/index.php/admin">Bus Booking project in Code Igniter</a></td>
                 <td><a href="https://krishnendudalui.in.net/busbooking-s1/index.php/admin">Live Demo</a></td>
             </tr>
             <tr>
                 <td>02</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/progress-steps">Progress Steps</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/progress-steps/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/progress-steps">Progress Steps</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/progress-steps/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>03</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/rotating-nav-animation">Rotating Navigation Animation</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/rotating-navigation-animation/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/rotating-nav-animation">Rotating Navigation Animation</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/rotating-navigation-animation/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>04</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/hidden-search">Hidden Search Widget</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/hidden-search-widget/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/hidden-search">Hidden Search Widget</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/hidden-search-widget/">Live Demo</a></td>
             </tr>
             <!-- Add more projects as needed -->
             <tr>
                 <td>50</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/insect-catch-game">Insect Catch Game</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/insect-catch-game/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/insect-catch-game">Insect Catch Game</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/insect-catch-game/">Live Demo</a></td>
             </tr>
             <tr>
                 <td>51</td>
-                <td><a href="<?php echo base_url()?>assets/500projects/simple-timer">Simple Timer</a></td>
-                <td><a href="<?php echo base_url()?>assets/500projects/simple-timer/">Live Demo</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/simple-timer">Simple Timer</a></td>
+                <td><a href="<?php echo base_url() ?>assets/500projects/simple-timer/">Live Demo</a></td>
             </tr>
         </table>
 
-     
+
     </main>
 
     <!-- HTML CSS JS PROJECT 50 -->
@@ -740,7 +925,7 @@
             <tr>
                 <td>01</td>
                 <td><a href="https://krishnendudalui.in.net/gurudev/assets/500projects/expanding-cards">Expanding Cards</a></td>
-                
+
                 <td><a href="https://krishnendudalui.in.net/gurudev/assets/500projects/expanding-cards/">Live Demo</a></td>
             </tr>
             <tr>
@@ -990,51 +1175,104 @@
             </tr>
         </table>
     </main>
-  
+
     <!--   Footer part -->
-      
-   <footer class="footer">
-      <p>
-         <strong>
-            Copyright &copy;2012-<span id="currentYear"></span>, <span id="formattedDate"></span> at <span
-               id="formattedTime"></span>, GMT+5:30 ,<a href="https://krishnendudalui.in.net/gurudev/" style="color: red; text-decoration: none;">
-            KRISHNENDU @ KRISHNENDU
-        </a>.
-         </strong>
-         All rights reserved.
-      </p>
-   </footer>
 
+    <footer class="footer">
+        <p>
+            <strong>
+                Copyright &copy;2012-<span id="currentYear"></span>, <span id="formattedDate"></span> at <span
+                    id="formattedTime"></span>, GMT+5:30 ,<a href="https://krishnendudalui.in.net/gurudev/" style="color: red; text-decoration: none;">
+                    KRISHNENDU @ KRISHNENDU
+                </a>.
+            </strong>
+            All rights reserved.
+        </p>
+    </footer>
 
-   <script>
-      function updateDateTime() {
-         const now = new Date();
+<!-- for footer -->
+    <script>
+        function updateDateTime() {
+            const now = new Date();
 
-         // Format date (e.g., August 14)
-         const dateOptions = { month: 'long', day: 'numeric' };
-         const formattedDate = now.toLocaleDateString('en-US', dateOptions);
-         document.getElementById('formattedDate').textContent = formattedDate;
+            // Format date (e.g., August 14)
+            const dateOptions = {
+                month: 'long',
+                day: 'numeric'
+            };
+            const formattedDate = now.toLocaleDateString('en-US', dateOptions);
+            document.getElementById('formattedDate').textContent = formattedDate;
 
-         // Format time (e.g., 09:59:43 PM)
-         const timeOptions = {
-            hour: '2-digit',
-            minute: '2-digit',
-            second: '2-digit',
-            hour12: true
-         };
-         const formattedTime = now.toLocaleTimeString('en-US', timeOptions);
-         document.getElementById('formattedTime').textContent = formattedTime;
+            // Format time (e.g., 09:59:43 PM)
+            const timeOptions = {
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: true
+            };
+            const formattedTime = now.toLocaleTimeString('en-US', timeOptions);
+            document.getElementById('formattedTime').textContent = formattedTime;
 
-         // Set the current year
-         document.getElementById('currentYear').textContent = now.getFullYear();
-      }
+            // Set the current year
+            document.getElementById('currentYear').textContent = now.getFullYear();
+        }
 
-      // Update date and time when the page loads
-      updateDateTime();
+        // Update date and time when the page loads
+        updateDateTime();
 
-      // Optional: Update every second to keep time current
-      setInterval(updateDateTime, 1000);
-   </script>
-    
+        // Optional: Update every second to keep time current
+        setInterval(updateDateTime, 1000);
+    </script>
+<!-- for time stamp -->
+
+     <script>
+        // Array of projects with their names and creation dates
+        const projects = [
+            { name: "Project 01 (Local Host+live)", creationDate: new Date('2024-08-11T12:00:00') }, // done
+            { name: "Project 02 (Local Host+live)", creationDate: new Date('2024-09-16T15:30:00') }, // done
+            { name: "Project 03 (Local Host+live)", creationDate: new Date('2023-10-13T10:15:00') }, // blank
+            { name: "Project 04 (Local Host+live)", creationDate: new Date('2020-01-12T09:45:00') }, // done
+            { name: "Project 05 (Local Host+live)", creationDate: new Date('2024-05-01T11:00:00') }, // done
+            { name: "Project 06 (Local Host+live)", creationDate: new Date('2024-01-15T14:00:00') }  // Example date
+        ];
+
+        // Function to calculate the age of the project in years, months, hours, minutes, and seconds
+        function calculateProjectAge(creationDate) {
+            const now = new Date();
+            const timeDifference = now - creationDate; // Difference in milliseconds
+
+            const seconds = Math.floor((timeDifference / 1000) % 60);
+            const minutes = Math.floor((timeDifference / (1000 * 60)) % 60);
+            const hours = Math.floor((timeDifference / (1000 * 60 * 60)) % 24);
+            const days = Math.floor((timeDifference / (1000 * 60 * 60 * 24)) % 30);
+            const months = Math.floor((timeDifference / (1000 * 60 * 60 * 24 * 30)) % 12);
+            const years = Math.floor(timeDifference / (1000 * 60 * 60 * 24 * 365));
+
+            // Create a result string
+            let result = '';
+            if (years > 0) result += `${years} year${years > 1 ? 's' : ''}, `;
+            if (months > 0) result += `${months} month${months > 1 ? 's' : ''}, `;
+            if (days > 0) result += `${days} day${days > 1 ? 's' : ''}, `;
+            result += `${hours} hour${hours !== 1 ? 's' : ''}, `;
+            result += `${minutes} minute${minutes !== 1 ? 's' : ''}, `;
+            result += `${seconds} second${seconds !== 1 ? 's' : ''} ago`;
+
+            return result;
+        }
+
+        // Function to display timestamps below existing headings
+        function displayTimestamps() {
+            projects.forEach((project, index) => {
+                const projectHeading = document.getElementById(`project-${index + 1}`);
+                const timestampText = document.createElement('p');
+                timestampText.textContent = `Created: ${calculateProjectAge(project.creationDate)}`;
+                projectHeading.insertAdjacentElement('afterend', timestampText);
+            });
+        }
+
+        // Execute the function to display timestamps on page load
+        displayTimestamps();
+    </script>
 </body>
+
 </html>
