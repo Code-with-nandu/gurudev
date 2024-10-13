@@ -40,11 +40,11 @@ This is the main repository for all of the projects in the course.
 | 01  | [REST API CONSUMER in CI3 _V1](https://krishnendudalui.in.net/API_Consumer/index.php/client/get_users)                             | [Live Demo](https://krishnendudalui.in.net/API_Consumer/index.php/client/get_users)               |
 
 
-| 02  | [REST API PROVIDER in CI3 _V2](https://krishnendudalui.in.net/API_Consumer_p2/ApiClientController/api_key_form)                    | [Live Demo](https://krishnendudalui.in.net/API_Consumer_p2/ApiClientController/api_key_form) 
+| 02  | [REST API PROVIDER in CI3 _V2](https://krishnendudalui.in.net/API_Consumer_p2/ApiClientController/api_key_form)                    | [Live Demo](https://krishnendudalui.in.net/API_Consumer_p2/ApiClientController/api_key_form)       |
 
 
 | 03  | [All Project In a Glance](https://krishnendudalui.in.net/gurudev/)                                                                 | 
-[Live Demo](https://krishnendudalui.in.net/gurudev/) 
+[Live Demo](https://krishnendudalui.in.net/gurudev/)                                                |
 
 
 
