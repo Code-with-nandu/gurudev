@@ -97,7 +97,7 @@
     
     <h1 id="main-title">Project Time Signatures</h1>
    
-    <h2 id="project-3">Project 03 (Local Host+live)</h2>
+  
     
     <h2 id="project-5">Project 05 (Local Host+live)</h2>
     <h2 id="project-6">Project 06 (Local Host+live)</h2>
@@ -182,7 +182,7 @@
  
     <!-- Prjiect 01 -->
     <main>
-    <h2 id="project-1">Project 01 (Local Host+live)</h2>
+    <h2 id="project-1">Project 01 (Local Host+live)//REST API</h2>
  
 
         <table>
@@ -239,7 +239,7 @@
 
       <!-- Prjiect 02 -->
       <main>
-      <h2 id="project-2">Project 02 (Local Host+live)</h2>
+      <h2 id="project-2">Project 02 (Local Host+live)//REST API</h2>
      
         <table>
             <tr>
@@ -289,6 +289,46 @@
 
         </table>
 
+    </main>
+
+
+ <!-- Prjiect 03 -->
+ <main>
+ <h2 id="project-3">Project 03 (Local Host+live)//HTML ,CSS ,JS</h2>
+
+        <table>
+            <tr>
+                <th>#</th>
+                <th>Project (HTML ,CSS ,JS)</th>
+                <th>Live Demo</th>
+                <th>Github</th>
+                <th>Main Note </th>
+                <th>Short Note</th>
+            </tr>
+            <tr style="background-color: coral;" >
+                <td>05</td>
+                <td><a href="http://localhost/1_CI/gurudev/" target="_blank">All Project In a Glance </a></td>
+                <td><a href="http://localhost/1_CI/gurudev/" target="_blank">Local host</a></td>
+                <td><a href="https://github.com/Code-with-nandu/gurudev" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/12MIhL_mGj4czCQccqui7MsaexoPuEsGM/edit" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/1-icnVovPL-oddN2Ax_qZeLbukSWWMGF7/edit" target="_blank">Short Note  </a></td>
+            </tr>
+
+        
+        
+            <tr style="background-color: darkturquoise;" >
+                <td>07</td>
+                <td><a href="https://krishnendudalui.in.net/gurudev/" target="_blank">All Project In a Glance</a></td>
+                <td><a href="https://krishnendudalui.in.net/gurudev/" target="_blank">LIVE</a></td>
+                <td><a href="https://github.com/Code-with-nandu/gurudev" target="_blank">Github Link</a></td>
+                <td><a href="https://docs.google.com/document/d/12MIhL_mGj4czCQccqui7MsaexoPuEsGM/edit" target="_blank">Main Note</a></td>
+                <td><a href="https://docs.google.com/document/d/12E2I0BHwGxpd3xA4Ew1aTghW__KdZfdR/edit" target="_blank">Short Note  </a></td>
+            </tr>
+
+        
+        
+
+        </table>
 
     </main>
 
@@ -1230,8 +1270,8 @@
         const projects = [
             { name: "Project 01 (Local Host+live)", creationDate: new Date('2024-08-11T12:00:00') }, // done
             { name: "Project 02 (Local Host+live)", creationDate: new Date('2024-09-16T15:30:00') }, // done
-            { name: "Project 03 (Local Host+live)", creationDate: new Date('2023-10-13T10:15:00') }, // blank
-            { name: "Project 04 (Local Host+live)", creationDate: new Date('2020-01-12T09:45:00') }, // done
+            { name: "Project 03 (Local Host+live)", creationDate: new Date('2024-10-01T10:15:00') }, // done
+            { name: "Project 04 (Local Host+live)", creationDate: new Date('2020-01-12T09:45:00') }, // 
             { name: "Project 05 (Local Host+live)", creationDate: new Date('2024-05-01T11:00:00') }, // done
             { name: "Project 06 (Local Host+live)", creationDate: new Date('2024-01-15T14:00:00') }  // Example date
         ];
